@@ -1,4 +1,4 @@
-# React-TypeScript
+# React-CKEditor
 
 React wrapper around CKEditor that allows customization and event hooks
 
